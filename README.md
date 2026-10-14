@@ -1,4 +1,6 @@
-## Hi there 👋
+## what
+
+I am not a programmer, yet I occasionally program stuff, how ominous
 
 <!--
 **negawskloV/negawskloV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
